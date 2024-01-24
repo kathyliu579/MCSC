@@ -18,9 +18,9 @@ Follow official guidance to install [Pytorch][torch_link].
 1. Clone the repo:
 ```
 git clone https://github.com/kathyliu579/MCSC.git
-cd SSL4MIS
+cd MCSC
 ```
-2. Download the processed data and put the data in `../data/BraTS2019` or `../data/ACDC`, please read and follow the [README](https://github.com/Luoxd1996/SSL4MIS/tree/master/data/).
+2. Download the processed data and put the data in `../data/ACDC`, please read and follow the [README](https://github.com/Luoxd1996/SSL4MIS/tree/master/data/).
 
 3. Train the model
 ```
