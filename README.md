@@ -4,7 +4,7 @@ bmvc 2023 paper: Multi-Scale Cross Contrastive Learning for Semi-Supervised Medi
 
 ## Requirements
 Some important required packages include:
-* [Pytorch][torch_link] version >=1.7.1.
+* [Pytorch][torch_link] version >=1.7.1
 * TensorBoardX
 * Python == 3.8 
 * Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
@@ -32,6 +32,10 @@ python python train_MCSC_2D_256_28.py or bash/sh train_acdc_unet_semi_seg.sh
 ```
 python test_2D_fully.py or bash/sh test_acdc_unet_semi_seg.sh
 ```
+
+## References
+* [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
+* [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) 
 
 # Citation
 @misc{liu2023multiscale,
