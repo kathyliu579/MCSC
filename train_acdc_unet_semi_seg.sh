@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_MCSC_2D_256_28.py --root_path ../data/ACDC --exp ACDC/256_28_pr5wr20 --num_classes 4 --labeled_num 7 --base_lr 0.0005 --labeled_bs 2 --batch_size 4 --max_iterations 40000
