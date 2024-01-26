@@ -1,5 +1,5 @@
 # MCSC（Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation）
-bmvc 2023 paper: Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation
+bmvc 2023 paper: [Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0868.pdf)
 
 
 ## Requirements
@@ -38,11 +38,13 @@ python test_2D_fully.py or bash/sh test_acdc_unet_semi_seg.sh
 * [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) 
 
 # Citation
-@misc{liu2023multiscale,
-      title={Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation}, 
-      author={Qianying Liu and Xiao Gu and Paul Henderson and Fani Deligianni},
-      year={2023},
-      eprint={2306.14293},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+[@inproceedings{Liu_2023_BMVC,
+author    = {Qianying Liu and Xiao Gu and Paul Henderson and Fani Deligianni},
+title     = {Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0868.pdf}
+}]
+
+
