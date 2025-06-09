@@ -13,6 +13,9 @@ Follow official guidance to install [Pytorch][torch_link].
 
 [torch_link]:https://pytorch.org/
 
+# Prepare data
+The datasets we used are provided by TransUnet's authors. [Get processed data in this link] (Synapse/BTCV: https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd and ACDC: https://drive.google.com/drive/folders/1KQcrci7aKsYZi1hQoZ3T3QUtcy7b--n4).
+
 # Usage
 
 1. Clone the repo:
